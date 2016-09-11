@@ -3,5 +3,5 @@ import { render } from 'react-dom'
 import Main from './lib/main'
 
 render((
-  <Main name="#"/>
+  <Main name="6.4-chat-app"/>
 ), document.getElementById('app'))

@@ -1,7 +1,14 @@
 # FEE Boilerplate React/Bable/Webpack
 
 #TODO
-- []
+- [] Use the Slack.app design as reference for
+      structure & presentation
+  - [x] Container for app
+  - [x] ul in which the messages will be printed
+  - [x] form with input field for typing messages
+  - [x] submit button
+  - [x] header
+  - [] match styling
 - []
 - []
 
